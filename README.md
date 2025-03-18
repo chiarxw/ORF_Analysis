@@ -1,4 +1,4 @@
-![ORF analysis github](https://github.com/user-attachments/assets/37921c45-2332-465e-bc3c-9fbd4331d125)
+![ORF analysis github](https://github.com/user-attachments/assets/c2203cef-ac61-4a5b-a663-92a7aec176c7)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
