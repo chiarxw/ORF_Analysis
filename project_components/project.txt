@@ -1,0 +1,15 @@
+PYTHON
+  Biopython
+  Pandas
+  NumPy
+  Seaborn
+  Matplotlib
+
+PROTEIN ANALYSIS
+  NCBI BLASTp (nr_clustered)
+  UniProt
+  Conserved Domain Database (CDD)
+
+IDEs/TEXT EDITOR
+  Visual Studio Code 
+  RStudio
