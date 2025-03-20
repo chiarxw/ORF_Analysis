@@ -76,14 +76,18 @@ Within the project, in addition to the ORF analysis script, other scripts were d
 
 <h2> Results </h2>
 - Identified ORF with 707 amino acids.
+
 - 99.86% identity with a hypothetical Ailuropoda melanoleuca protein.
+  
 - E-value = 0, indicating a highly significant alignment.
+  
 - No detectable conserved domains, suggesting a poorly characterized function. Future studies may help characterize the function of the identified protein.
 
 <h2> Conference Presentation </h2>
 The results of this study will be presented at two Brazilian conferences:
 
 - Brazilian Congress of Applied Biotechnology (CONBIOTEC)
+  
 - Brazilian Congress of Biological Sciences (CONBRACIB)
 
 ## Socials
