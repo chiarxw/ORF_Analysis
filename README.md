@@ -52,7 +52,7 @@ Dentro do projeto, além do script para análise de ORFs, scripts com outras fun
 
 ## Apresentação em Congresso
 
-Os resultados deste estudo serão apresentados em dois congressos brasileiros: [Congresso Brasileiro de Biotecnologia Aplicada (CONBIOTEC)](https://ime.events/v-conbiotec) e [Congresso Brasileiro de Ciências Biológicas (CONBRACIB)](https://ime.events/vi-conbracib). Confira o E-Banner apresentado em um destes:
+Os resultados deste estudo serão apresentados em dois congressos brasileiros: [V Congresso Brasileiro de Biotecnologia Aplicada (CONBIOTEC)](https://ime.events/v-conbiotec) e [VI Congresso Brasileiro de Ciências Biológicas (CONBRACIB)](https://ime.events/vi-conbracib). Confira o E-Banner apresentado em um destes:
 
 ![E-banner IDENTIFICAÇÃO DE UMA ORF E ANÁLISE DE SIMILARIDADE PROTEICA EM Ailuropoda melanoleuca por Chiara Brancalion2 - VI CONBRACIB](https://github.com/user-attachments/assets/01d7f63a-551a-4662-ac3e-c8d994375905)
 
@@ -86,9 +86,9 @@ Within the project, in addition to the ORF analysis script, other scripts were d
 <h2> Conference Presentation </h2>
 The results of this study will be presented at two Brazilian conferences:
 
-- Brazilian Congress of Applied Biotechnology (CONBIOTEC)
+- V Brazilian Congress of Applied Biotechnology (CONBIOTEC)
   
-- Brazilian Congress of Biological Sciences (CONBRACIB)
+- VI Brazilian Congress of Biological Sciences (CONBRACIB)
 
 ## Socials
 > LinkedIn [Chiara Brancalion](https://www.linkedin.com/in/chiara-brancalion-5263412a0) &nbsp;&middot;&nbsp;
